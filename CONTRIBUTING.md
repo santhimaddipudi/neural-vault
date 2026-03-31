@@ -1,6 +1,5 @@
 # Contributing to Neural Vault
 
-Thank you for contributing to **Neural Vault** — the 100% offline, private RAG desktop application built as **Artifact 1** of the MasterDexter 8-Week AI Engineer Accelerator (2026 Cohort).
 
 This document outlines the exact process for team members to pick issues, build features, create Pull Requests, and get their code merged.
 
